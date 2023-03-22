@@ -1,0 +1,33 @@
+.propertyType {
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    z-index: 1;
+}
+
+.propertyItemImg{
+    width: 100%;
+    object-fit: cover;
+}
+.propertyItem {
+    position: relative;
+    flex: 1 1;
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.propertyItemTitle{
+    bottom: 20px;
+    left: 20px;
+
+}
+.propertyItemTitle>h1 {
+    font-size: 18px;
+    color: #444;
+}
+.propertyItemTitle>h2 {
+    font-size: 14px;
+    font-weight: 300;
+}

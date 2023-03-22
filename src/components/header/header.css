@@ -5,10 +5,13 @@
   justify-content: center;
   position: relative;
 }
+.headerTitle {
+  margin-top: 50px;
+}
 .headerContainer {
-  width: 100%;
-  max-width: 1024px;
-  margin: 20px 0 100px;
+      width: 100%;
+    max-width: 1024px;
+    margin: 20px 0 70px;
 }
 .headerContainer.listMode {
   margin: 20px 0 30px 0;
@@ -31,12 +34,12 @@
   margin: 20px 0;
 }
 .headerBtn {
-  background-color: #0071c2;
-  color: #fff;
-  font-weight: 500;
-  border: none;
-  padding: 10px;
-  cursor: pointer;
+    background-color: #0071c2;
+    color: white;
+    font-weight: 500;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
 }
 .headerSearch {
   height: 30px;

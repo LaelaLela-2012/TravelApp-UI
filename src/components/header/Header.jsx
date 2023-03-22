@@ -62,9 +62,8 @@ const Header = ({type}) => {
         </div>
         { type !== "list" &&
           <>
-            <h1 className="headerTitle">A lifetime of discount? It's Genius.</h1>
-              <p className="headerDesc">Get rewarded for your travels – unlock instant savings of 10% or more with a free Justbooking account</p>
-              <button className="headerBtn">Signin/ Register</button>
+            <h1 className="headerTitle">Find your next stay</h1>
+              <p className="headerDesc">Search deals on hotels, homes, and much more...</p>
               <div className="headerSearch">
                   <div className="headerSearchItem">
                        <FontAwesomeIcon icon={faBed} className='headerIcon' />

@@ -3,9 +3,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 30px;
+    gap: 20px;
 }
 .homeTitle {
     width: 1024px;
     font-size: 20px;
+}
+.pi{
+    width: 1024px;
+    font-size: 14px;
+    gap: 10px;
 }
