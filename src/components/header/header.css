@@ -10,6 +10,9 @@
   max-width: 1024px;
   margin: 20px 0 100px;
 }
+.headerContainer.listMode {
+  margin: 20px 0 30px 0;
+}
 .headerList {
   display: flex;
   gap: 40px;
@@ -93,7 +96,7 @@
 .optionCounterButton {
   width: 30px;
   height: 30px;
-  border:1px solid #0071c2;
+  border: 1px solid #0071c2;
   color: #0071c2;
   cursor: pointer;
   background-color: #fff;
