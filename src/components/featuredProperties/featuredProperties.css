@@ -28,8 +28,8 @@
   color: #fff;
   border: none;
   padding: 3px;
-  margin: right 10px;
   font-weight: bold;
+  margin-right: 10px;
 }
 .fpRating > span {
     font-size: 14px;

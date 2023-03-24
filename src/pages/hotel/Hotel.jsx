@@ -1,8 +1,11 @@
 import React from 'react'
+import List from '../list/List'
 
 const Hotel = () => {
   return (
-    <div>Hotel</div>
+    <div>
+      <List />
+    </div>
   )
 }
 
