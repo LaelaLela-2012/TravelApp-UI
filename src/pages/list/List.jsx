@@ -86,8 +86,8 @@ const List = () => {
           </div>
         </div>
       </div>
-      {/* <MailList />
-      <Footer /> */}
+      <MailList />
+      <Footer />
     </div>
   )
 }
